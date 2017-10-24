@@ -1,0 +1,33 @@
+{
+  "name": "smartcontracts",
+  "version": "1.0.0",
+  "description": "A simple smart contract using solidity",
+  "main": "truffle.js",
+  "dependencies": {
+    "flow": "^0.2.3",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charly88554/SmartContracts.git"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "solidity",
+    "ethereum",
+    "person"
+  ],
+  "author": "Charly Agudelo <charly.agudelo@umanizales.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charly88554/SmartContracts/issues"
+  },
+  "homepage": "https://github.com/charly88554/SmartContracts#readme"
+}
